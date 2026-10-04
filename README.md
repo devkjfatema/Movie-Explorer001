@@ -1,2 +1,2 @@
-# Movie-Explorer001
-Movie-Explorer001
+# movie-explorer
+movie-explorer
